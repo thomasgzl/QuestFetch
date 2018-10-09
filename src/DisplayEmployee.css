@@ -1,0 +1,16 @@
+li {
+    list-style-type: none; 
+    font-size: 20px;
+}
+
+h3 {
+    color: rgb(255, 217, 0);
+}
+
+h3.lala {
+    color: rgb(0, 190, 16);
+}
+
+h3.lolo {
+    color: rgb(0, 89, 255);
+}
